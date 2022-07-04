@@ -1,0 +1,18 @@
+{
+  "register": "أنشئ حساب",
+  "login": "تسجيل دخول",
+  "email": "البريد الالكتروني",
+  "password": "كلمة المرور",
+  "confirmPassword": "تأكيد كلمة المرور",
+  "language": "English",
+  "emptyFieldRequired":"برجاء ملئ جميع الحقول",
+  "weakPassword": "برجاء اختيار كلمة سر قوية",
+  "invalidEmail": "برجاء ادخال بريد إلكتروني صحيح",
+  "wrongPassword": "كلمة المرور غير صحيحة",
+  "phoneNumber": "رقم الهاتف",
+  "fullName": "الاسم الكامل",
+  "passwordsNotEquivalent": "كلمة المرور غير متطابقة",
+  "accountCreatedSuccessfully": "تم إنشاء الحساب بنجاح",
+  "userData": "بيانات المستخدم",
+  "logout": "تسجيل الخروج"
+}

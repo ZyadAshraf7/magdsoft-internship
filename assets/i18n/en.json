@@ -1,0 +1,18 @@
+{
+  "register": "Register",
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "language": "عربي",
+  "emptyFieldRequired":"Empty Field Required",
+  "weakPassword": "Password is weak",
+  "invalidEmail":"Invalid Email",
+  "wrongPassword":"Wrong Password",
+  "fullName":"Full Name",
+  "phoneNumber":"Phone Number",
+  "passwordsNotEquivalent": "Passwords are not equivalent",
+  "accountCreatedSuccessfully": "Account created successfully",
+  "userData": "User Data",
+  "logout": "Logout"
+}
