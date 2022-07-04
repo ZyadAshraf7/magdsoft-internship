@@ -77,7 +77,7 @@ class LoginScreen extends StatelessWidget {
                       width: 227,
                       height: 167,
                       child: Image.asset(
-                        "assets/images/logo.png",
+                        "assets/images/flutterLogo.png",
                       ),
                     ),
                     const SizedBox(height: 14),
